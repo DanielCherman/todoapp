@@ -71,18 +71,6 @@ export default {
     return{
       newTask: '',
       tasks: [
-        // {
-        //   title: 'Get bananas',
-        //   done: false
-        // },
-        // {
-        //   title: 'Get job',
-        //   done: false
-        // },
-        // {
-        //   title: 'Wake up 8am',
-        //   done: false
-        // }
       ]
 }
 },
